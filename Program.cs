@@ -98,6 +98,7 @@ namespace Day07
             // 참고로 윈도우 터미널의 시작 크기는 열32 행7
             // 글꼴은 D2Coding, 글꼴 크기는 30, 줄 높이는 0.5로 설정 후 실행하였다.
             // 파일을 수정
+            // 원격 저장소에서 파일을 수정
             Position playerPos = new Position();
             int[,] map;
             int stage = 1;
